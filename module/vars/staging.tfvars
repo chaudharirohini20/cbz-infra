@@ -16,5 +16,5 @@ eks_min_nodes          = 2
 eks_node_instance_type = "t3.small"
 
 # S3 Variables
-s3_bucket_name = "infra-easycrud-b48"
+s3_bucket_name = "my-project-bucket"
 s3_environment = "staging" 
